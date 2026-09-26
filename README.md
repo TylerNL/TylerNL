@@ -1,6 +1,6 @@
 
 # Hi! I'm Tyler
-I'm a Computer Science student at UC Santa Barbara with a focus on blockchain and fintech. I enjoy building real-world applications, exploring decentralized systems, and working at the intersection of finance and technology.
+I'm a Computer Science student at UC Irvine with a focus on blockchain and fintech. I enjoy building real-world applications, exploring decentralized systems, and working at the intersection of finance and technology.
 - 🌱 Currently building [Dispatch](https://github.com/TylerNL/dispatch)
 - 📊 Interested in backend development and working with DeFi and dApps
 - 🎲 In my free time, I cook and play geometry dash
