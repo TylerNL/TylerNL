@@ -1,19 +1,38 @@
+# Hi, I'm Tyler!
 
-# Hi! I'm Tyler
-I'm a Computer Science student at UC Irvine passionate about building scalable infrastructure and backend systems. I enjoy developing real-world applications, exploring decentralized systems, and working at the intersection of finance and technology.
-- 🌱 Currently building [Dispatch](https://github.com/TylerNL/dispatch)
-- 📊 Interested in backend and platform work
-- 🎲 In my free time, I cook and play geometry dash (hardest is currently cata 💔)
+## Software Engineering @ UC Irvine.
 
-# 💻 Tech Stack:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=TylerNL&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TylerNL&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Previously a Software Engineer Intern on Advantest's Real-time Data Infrastructure team
 
-## 🌐 Socials:
+I'm interested in backend systems, developer infrastructure, and distributed systems.
+
+- Previously served as Treasurer and worked on sponsorships for ACM at UCSB.
+- Based in Irvine, California.
+- Currently working on [Dispatch](https://github.com/TylerNL/dispatch) and other cloud projects.
+- Contact me at [tylerle112233@gmail.com](mailto:tylerle112233@gmail.com)
+
+### Technical Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,ts,js,go" alt="Python, C++, Java, TypeScript, JavaScript, Go" />
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,postgres" alt="FastAPI, Spring Boot, Flask, PostgreSQL" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" />
+</p>
+
+### Infrastructure & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,prometheus,grafana" alt="Docker, Kubernetes, AWS RDS, Prometheus, Grafana" />
+</p>
+
+### Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerle949) 
----
-[![](https://komarev.com/ghpvc/?username=TylerNL&icon=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
